@@ -6,7 +6,7 @@
 - iGPU Intel UHD Graphics 630
 - RAM: 32GB DDR4
 - HDD: WD SN550 NVMe SSD 1TB
-- Wi-Fi & Bluetooth: 
+- Wi-Fi & Bluetooth: Intel Wireless-AC 9560
 
 ## What Works
 - CPU
