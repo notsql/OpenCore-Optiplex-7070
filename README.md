@@ -2,7 +2,7 @@
 
 ## Specifications
 -----------------
-- [Desktop Computer: Dell OptiPlex 7070 Micro Form Factor] (https://www.dell.com/support/manuals/en-sg/optiplex-7070-desktop/opti7070_sff_setup_specs/system-specifications?guid=guid-ab67ed37-0818-4592-a25c-f04b3a73c18d&lang=en-us)
+- [Desktop Computer: Dell OptiPlex 7070 Micro Form Factor](https://www.dell.com/support/manuals/en-sg/optiplex-7070-desktop/opti7070_sff_setup_specs/system-specifications?guid=guid-ab67ed37-0818-4592-a25c-f04b3a73c18d&lang=en-us)
 - CPU: Intel Core i7 8th Generation
 - iGPU Intel UHD Graphics 630
 - RAM: 32GB DDR4
