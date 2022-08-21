@@ -2,9 +2,9 @@
 
 # Details
 
-| OpenCore Version | 0.7.8 |
+| OpenCore Version | 0.8.3 |
 | --- | --- |
-| macOS Version | 11.6.5 (Big Sur) |
+| macOS Version | 12.5.1 (Big Sur) |
 | SMSBios | iMac19,1 |
 
 # Hardware Specifications
